@@ -3,7 +3,7 @@
 
 /**
  * binary_tree_preorder - traversal function.
- * @binary_tree_t: struct.
+ * @tree: pointer to node.
  * @func: function pointer.
  */
 
